@@ -28,16 +28,16 @@ Enunciado: Dado o array const array = [10, 15, 8, 20, 5], encontre o elemento qu
 ----------------------------------------------------------------------------------------
 Questão 10: Dado o array const array = [5, 8, 12, 3, 7], encontre o número que é menor que 5 e maior que 6. Imprima o resultado.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
-Questão 11: Dado o array const array = [1, 4, 6, 8, 10], crie um novo array onde cada elemento é o dobro do elemento correspondente no array original. Imprima o novo array.
+Questão 11: Dado o array const array = [1, 4, 6, 8, 10], crie um novo array onde cada elemento é o dobro do elemento correspondente no array original. Imprima o novo array.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
-Questão 12: Dado o array const array = [7, 14, 21, 28, 35], encontre todos os números que são múltiplos de 7 e imprima-os.----------------------------------------------------------------------------------------
-Questão 13: Dado o array const array = [10, 15, 20, 25, 30], encontre o número que está na posição intermediária (índice 2) e substitua-o por 100. Imprima o array modificado.
+Questão 12: Dado o array const array = [7, 14, 21, 28, 35], encontre todos os números que são múltiplos de 7 e imprima-os.(CONCLUÍDA)----------------------------------------------------------------------------------------
+Questão 13: Dado o array const array = [10, 15, 20, 25, 30], encontre o número que está na posição intermediária (índice 2) e substitua-o por 100. Imprima o array modificado.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
-Questão 14: Dado o array const array = [9, 5, 2, 7, 4], encontre o número de elementos que são menores que 6 e imprima o resultado.
+Questão 14: Dado o array const array = [9, 5, 2, 7, 4], encontre o número de elementos que são menores que 6 e imprima o resultado.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
-Questão 15: Dado o array const array = [1, 1, 1, 1, 1], verifique se todos os elementos são iguais e imprima "Todos são iguais" ou "Nem todos são iguais".
+Questão 15: Dado o array const array = [1, 1, 1, 1, 1], verifique se todos os elementos são iguais e imprima "Todos são iguais" ou "Nem todos são iguais".(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
-Questão 16: Dado o array const array = [5, 12, 8, 21, 7], encontre o número mais próximo de 10 e imprima-o.
+Questão 16: Dado o array const array = [5, 12, 8, 21, 7], encontre o número mais próximo de 10 e imprima-o.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
 Questão 17: Dado o array const array = [1, 3, 2, 6, 4], ordene o array em ordem crescente e imprima o array ordenado.
 ----------------------------------------------------------------------------------------

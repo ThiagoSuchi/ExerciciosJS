@@ -68,3 +68,8 @@ Questão 08: Dado um array de números, escreva um código para ordená-lo em or
 Questão 09: Escreva uma função que remove duplicatas de um array.
 ----------------------------------------------------------------------------------------
 Questão 10: Escreva um código para encontrar o maior elemento em um array de números.
+----------------------------------------------------------------------------------------
+Questão 11: Faça um programa que, analisando a tabela acima, escreva um por linha a relação dos alunos
+que possivelmente colaram, isto é, aqueles que suas respostas são idênticas a pelo menos
+algum outro aluno, não importa qual ocorrência foi encontrada a correspondência das
+respostas, apenas escreva a lista dos nomes.

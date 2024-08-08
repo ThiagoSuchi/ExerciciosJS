@@ -18,7 +18,7 @@ for (let i = 0; i < array.length; i++) {// aqui esta apenas iterando cada elemen
     if(!numIgual) break;// aqui ele analisa se a variavel numIgual é verdadeiramente false, e interrompe o loop externo. O (!numIgual) é uma negação da variavel numIgual = true, logo diz que numIgual é false, assim confirmando o if do loop interno(j) onde numIgual = false.
 }
 
-if(numIgual){// Se os numeros forem iguais(numIgual = true), então ele imprimirar na tela.
+if(numIgual){// Se os numeros forem iguais(numIgual = true), então ele imprimira na tela.
     console.log(`Os números do array [${array}], são todos iguais`);
 } else if(numDiferente !== null){// Se haver algum número diferente no array, então imprimira na tela.
     console.log(`O número ${numDiferente} é o unico diferente, do array [${array}]`);

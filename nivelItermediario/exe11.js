@@ -18,23 +18,50 @@ que possivelmente colaram, isto é, aqueles que suas respostas são idênticas a
 algum outro aluno, não importa qual ocorrência foi encontrada a correspondência das
 respostas, apenas escreva a lista dos nomes. */
 
-const arrayAlunos = ['marcio', 'junior', 'marcos', 'robert', 'ariana', 'meghan', 'juceli', 'tifany', 'penina', 'denise', 'adriel'];
-const arrayRespostas = ['bdeead', 'acbcce', 'abbade', 'abbade', 'abbade', 'babaca', 'adaadd', 'abcecb', 'aeedbc', 'bebebe', 'cabeca'];
+//const arrayAlunos = ['marcio', 'junior', 'marcos', 'robert', 'ariana', 'meghan', 'juceli', 'tifany', 'penina', 'denise', 'adriel'];
+//const arrayRespostas = ['bdeead', 'acbcce', 'abbade', 'abbade', 'abbade', 'babaca', 'abbade', 'abcecb', 'aeedbc', 'bebebe', 'cabeca'];
 
-const arrays = [arrayAlunos, arrayRespostas];
-let alunoQueColou = 0;
+const array = [
+    ['marcio', 'bdeead'],
+    ['junior', 'acbcce'],
+    ['marcos', 'abbade'],
+    ['robert', 'abbade'],
+    ['ariana', 'abbade'],
+    ['meghan', 'babaca'],
+    ['juceli', 'abbade'],
+    ['tifany', 'abcecb'],
+    ['penina', 'aeedbc'],
+    ['denise', 'bebebe'],
+    ['adriel', 'cabeca']
+  ]
 
-for (i = 0; i < arrayAlunos.length; i++) {
-    respostas = arrays[1][i]
-    for (j = i + 1; j < arrayAlunos.length; j++) {
-        if (arrays[1][j] === arrays[1][i]) {
-            alunoQueColou = arrays[0][j]
-            console.log(`aluno(a) ${alunoQueColou} \n -> COLOU na prova. Alternativas assinaladas: ${respostas}`);
-            
-        } 
+//const arrays = [arrayAlunos, arrayRespostas];
+let alunoQueColou = [];
 
+for (atual = 0; atual < array.length; atual++) {
+    console.log(atual, array[atual]);
+    for (outro = 0; outro < array.length; outro++) {
+        console.log("  "+outro, array[outro]);
     }
 }
+
+
+/*for (i = 0; i < arrayRespostas.length; i++) {
+    if (arrayRespostas[i - 1] === arrayRespostas[i]) {
+        alunoQueColou.push(arrayAlunos[i - 1])
+        if (alunoQueColou.includes(arrayAlunos[i - 1])) {
+            if (arrayRespostas[i] === arrayRespostas[i - 1]) {
+                alunoQueColou.push(arrayAlunos[i])
+                
+            }
+        }
+    }
+}*/
+
+
+
+console.log(alunoQueColou);
+
 
 
 

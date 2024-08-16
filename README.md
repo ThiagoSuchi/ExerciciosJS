@@ -1,5 +1,5 @@
 ##------Questões de Lógica de Programação com JavaScript------##
-# NIVEL-FACIL:
+# NIVEL FACIL: 
 
 Questão 1: calcule a quantidade de números positivos, negativos e zeros em um array de inteiros e logo após fça uma conta para tornalos decimais e imprima todo esses valores com precisão de seis casas decimais.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
@@ -47,7 +47,7 @@ Questão 18: Dado o array const array = [10, 20, 30, 40, 50], calcule o produto 
 Questão 19: Dado o array const array = [2, 4, 6, 8, 10], encontre o índice do elemento 8 e imprima o resultado.(CONCLUÍDA)
 
 
-# NIVEL-INTERMEDIARIO:
+# NIVEL MÉDIO:
 
 Questão 01: Implemente um programa que imprime os números de 1 a 100. Mas para múltiplos de 3, imprima "Fizz" ao invés do número, e para múltiplos de 5 imprima "Buzz". Para números que são múltiplos de ambos 3 e 5, imprima "FizzBuzz".(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
@@ -55,9 +55,9 @@ Questão 02:  Escreva uma função que verifica se uma string é um palíndromo 
 ----------------------------------------------------------------------------------------
 Questão 03: Dado um array de números, escreva uma função para calcular a soma de todos os elementos do array.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
-Questão 04: Escreva uma função que determine se um número é primo.
+Questão 04: Escreva uma função que determine se um número é primo.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
-Questão 05: Implemente uma função que calcula o fatorial de um número.
+Questão 05: Implemente uma função que calcula o fatorial de um número.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
 Questão 06: Escreva um código que conta o número de vogais em uma string.
 ----------------------------------------------------------------------------------------
@@ -69,7 +69,23 @@ Questão 09: Escreva uma função que remove duplicatas de um array.
 ----------------------------------------------------------------------------------------
 Questão 10: Escreva um código para encontrar o maior elemento em um array de números.
 ----------------------------------------------------------------------------------------
-Questão 11: Faça um programa que, analisando a tabela acima, escreva um por linha a relação dos alunos
+
+
+# NIVEL DIFICIL
+
+Questão 01; Faça um programa que, analisando a tabela acima, escreva um por linha a relação dos alunos
 que possivelmente colaram, isto é, aqueles que suas respostas são idênticas a pelo menos
 algum outro aluno, não importa qual ocorrência foi encontrada a correspondência das
-respostas, apenas escreva a lista dos nomes.
+respostas, apenas escreva a lista dos nomes.(CONCLUÍDA)
+--------------------------------------------------------------------------------------------------------
+Questão 02: Desenvolva um programa que simule um sistema de validação de senhas. O programa deve
+conter uma lista de senhas fictícias e verificar se a senha fornecida pelo usuário corresponde a
+uma das senhas da lista. Crie uma lista contendo o cadastro de 10 usuários fictícios. Os usuários deverão ter um email e
+uma senha, bem como informações adicionais como nome entre outras que desejar. As senhas
+devem ser diferentes entre si e não devem ser senhas reais para garantir a segurança. (CONCLUÍDA)
+--------------------------------------------------------------------------------------------------------
+Questão 03: Faça um programa que receba a massa e a altura do usuário via argumentos da linha de
+comando e exiba a classificação do IMC dessa pessoa com base na tabela fornecida.
+Obs: Deve fazer utilizando uma matriz para guardar as informações da tabela acima, então vá
+passando pela lista com imc’s e caso encontre um valor que é maior que o imc calculado, exibe
+a última classificação.

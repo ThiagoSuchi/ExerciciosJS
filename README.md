@@ -59,9 +59,9 @@ Questão 04: Escreva uma função que determine se um número é primo.(CONCLUÍ
 ----------------------------------------------------------------------------------------
 Questão 05: Implemente uma função que calcula o fatorial de um número.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
-Questão 06: Escreva um código que conta o número de vogais em uma string.
+Questão 06: Escreva um código que conta o número de vogais em uma string.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
-Questão 07: Escreva uma função que inverte uma string.
+Questão 07: Escreva uma função que inverte uma string.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
 Questão 08: Dado um array de números, escreva um código para ordená-lo em ordem crescente sem usar funções prontas de ordenação.
 ----------------------------------------------------------------------------------------

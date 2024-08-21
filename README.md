@@ -63,7 +63,7 @@ Questão 06: Escreva um código que conta o número de vogais em uma string.(CON
 ----------------------------------------------------------------------------------------
 Questão 07: Escreva uma função que inverte uma string.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
-Questão 08: Dado um array de números, escreva um código para ordená-lo em ordem crescente sem usar funções prontas de ordenação.
+Questão 08: Dado um array de números, escreva um código para ordená-lo em ordem crescente sem usar funções prontas de ordenação.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
 Questão 09: Escreva uma função que remove duplicatas de um array.
 ----------------------------------------------------------------------------------------

@@ -65,13 +65,12 @@ Questão 07: Escreva uma função que inverte uma string.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
 Questão 08: Dado um array de números, escreva um código para ordená-lo em ordem crescente sem usar funções prontas de ordenação.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
-Questão 09: Escreva uma função que remove duplicatas de um array.
+Questão 09: Escreva uma função que remove duplicatas de um array.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
-Questão 10: Escreva um código para encontrar o maior elemento em um array de números.
+Questão 10: Escreva um código para encontrar o maior elemento em um array de números.(CONCLUÍDA)
 ----------------------------------------------------------------------------------------
 
-
-# NIVEL DIFICIL
+# DESAFIOS COM REPETIÇÕES E VETORES:
 
 Questão 01; Faça um programa que, analisando a tabela acima, escreva um por linha a relação dos alunos
 que possivelmente colaram, isto é, aqueles que suas respostas são idênticas a pelo menos

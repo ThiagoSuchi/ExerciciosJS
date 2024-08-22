@@ -13,7 +13,7 @@ let funcao = maiorNumArray([11, 22, 33, 54, 77, 56, 800, 100, 2, 3, 1, 400])
 
 console.log(funcao);
 
-//-------------- Ou ultilizando reduce:
+//-------------- Ou ultilizando reduce
 
 function maiorNumArray(array) {
 
